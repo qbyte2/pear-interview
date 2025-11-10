@@ -1,5 +1,3 @@
-"use client";
-
 import CounterTool from "@/app/components/CounterTool";
 import TodoList from "@/app/components/TodoList";
 import TimeAPI from "@/app/components/TimeAPI";
